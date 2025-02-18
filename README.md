@@ -1,6 +1,3 @@
-Here's your **short GitHub README** with **GitHub Readme Stats** integrated:  
-
----
 
 ## Hi there 👋  
 
