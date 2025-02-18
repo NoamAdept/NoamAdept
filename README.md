@@ -5,3 +5,4 @@ I'm **Noam Yakar**, a cybersecurity & data science enthusiast passionate about *
 
 📜 [Portfolio](https://noamadept.github.io/noamPortfolio.github.io/) | 🔐 [CTF Challenges](https://pwn.college/cse466-f2024/)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamAdept&layout=compact&theme=radical)  
+(C# is overrepresented due to recently deleted repositories)
