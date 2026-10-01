@@ -31,7 +31,8 @@ I'm passionate about breaking and securing systems. My focus areas include:
 
 ## Let's Connect
 
-🌐 [Portfolio](https://noamadept.github.io/noamPortfolio.github.io/) • 📧 [Email](mailto:yakar.noam56@gmail.com) • 🔗 [LinkedIn]([https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/noam-yakar/)
+🌐 [Portfolio](https://noamadept.github.io/noamPortfolio.github.io/) • 📧 [Email](mailto:yakar.noam56@gmail.com) • 🔗 [LinkedIn]([[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/noam-yakar/))]
+
 
 ---
 
