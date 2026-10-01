@@ -16,9 +16,8 @@ I'm passionate about breaking and securing systems. My focus areas include:
 
 ## Tech Stack
 
-`Python` `Go` `Rust` `JavaScript` `SQL` `Docker` `Kubernetes`
+`Python` `Rust` `JavaScript` `SQL` `Docker` 
 
-**Security:** OWASP • Cryptography • Network Security • Threat Modeling
 
 ---
 
@@ -32,7 +31,7 @@ I'm passionate about breaking and securing systems. My focus areas include:
 
 ## Let's Connect
 
-🌐 [Portfolio](https://noamadept.github.io/noamPortfolio.github.io/) • 📧 [Email](mailto:your-email@example.com) • 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+🌐 [Portfolio](https://noamadept.github.io/noamPortfolio.github.io/) • 📧 [Email](mailto:yakar.noam56@gmail.com) • 🔗 [LinkedIn]([https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/noam-yakar/)
 
 ---
 
