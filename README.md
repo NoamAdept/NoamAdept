@@ -14,13 +14,6 @@ I'm passionate about breaking and securing systems. My focus areas include:
 
 ---
 
-## Tech Stack
-
-`Python` `Rust` `JavaScript` `SQL` `Docker` 
-
-
----
-
 ## Notable Work
 
 - 🔐 Privacy-preserving data pipelines
